@@ -1,0 +1,2 @@
+# detmold
+Detmold Dashboard
